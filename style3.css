@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(196, 179, 179);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #5fc0ec;
+    display: flex;
+    padding: 40px 0px 45px 45px;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+}
+
+.nav-link1 {
+    border: 5px dashed red;
+    border-radius: 15px;
+    text-decoration: none;
+    margin: 0px 100px 0px 300px;
+    padding: 5px 0px 5px 0px
+}
+
+.nav-link2 {
+    border: 5px dashed lime;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 5px 0px 5px 0px
+}
+
+.nav-link3 {
+    border: 5px dashed red;
+    border-radius: 15px;
+    text-decoration: none;
+    margin: 0px 300px 0px 100px;
+    padding: 5px 0px 5px 0px
+}
+
+nav {
+    justify-content: space-between;
+    display: flex;
+    font-size: 30px;
+}
+
+.lolz {
+    font-size: 100px;
+}
+
+.topsellers {
+    width: 250px;
+    height: 250px;
+}
+
+.highlights {
+    color: yellow;
+}
